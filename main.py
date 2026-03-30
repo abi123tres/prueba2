@@ -8,3 +8,4 @@ print("Hola cara d bola")
 =======
 #quiero un problema para resolver
 >>>>>>> ramaprueba
+#problem con main
