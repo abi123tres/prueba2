@@ -5,4 +5,5 @@ print("Hola cara d bola")
 #QUIEN UN CONFLICT
 #Yo solo quiero q me salga q hay un conflicto
 #quiero un problema para resolver
+#problem con main
 #extraño a chikinazario
